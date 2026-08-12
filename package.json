@@ -1,0 +1,19 @@
+{
+  "name": "powerhouse-gym-mudarangadi",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "i18next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-i18next": "latest",
+    "vite": "latest"
+  }
+}

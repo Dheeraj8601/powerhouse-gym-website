@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "facilities": "Facilities",
+    "programs": "Programs",
+    "trainer": "Trainer",
+    "membership": "Membership",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "enquiry": "Enquiry"
+  },
+  "hero": {
+    "eyebrow": "Power House Unisex Gym • Mudarangadi",
+    "line1": "Discipline today.",
+    "line2": "Strength tomorrow.",
+    "copy": "Build your body, sharpen your mind and become stronger every day.",
+    "join": "Join on WhatsApp",
+    "explore": "Explore programs",
+    "points": [
+      "Stronger body",
+      "Better health",
+      "Stronger you"
+    ],
+    "quote": "The only bad workout is the one that didn’t happen."
+  },
+  "quotes": [
+    "Don’t wish for it. Work for it.",
+    "Sweat now. Shine later.",
+    "Your only limit is you.",
+    "Consistency creates confidence."
+  ],
+  "about": {
+    "tag": "About",
+    "title": "Built for your strongest version",
+    "text": "Power House Gym Mudarangadi is a welcoming unisex fitness centre for beginners and experienced members. Train with quality equipment, structured guidance and a focused atmosphere.",
+    "hours": "Opening hours",
+    "weekdays": "Monday – Saturday",
+    "morning": "6:00 AM – 9:30 AM",
+    "evening": "4:30 PM – 10:00 PM",
+    "sunday": "Sunday — Closed",
+    "map": "Open Google Maps"
+  },
+  "facilities": {
+    "tag": "Facilities",
+    "title": "Everything you need to train better",
+    "items": [
+      {
+        "title": "Quality equipment",
+        "text": "Modern strength and cardio equipment"
+      },
+      {
+        "title": "Spacious training floor",
+        "text": "Comfortable workout space"
+      },
+      {
+        "title": "Clean environment",
+        "text": "Well maintained and hygienic"
+      },
+      {
+        "title": "Changing area",
+        "text": "Convenient member facility"
+      },
+      {
+        "title": "Drinking water",
+        "text": "Stay hydrated while training"
+      },
+      {
+        "title": "Easy access",
+        "text": "Near Mudarangadi bus stop"
+      }
+    ]
+  },
+  "programs": {
+    "tag": "Programs",
+    "title": "Train for the goal that matters to you",
+    "items": [
+      {
+        "title": "Strength training",
+        "text": "Build full-body strength"
+      },
+      {
+        "title": "Muscle training",
+        "text": "Develop muscle safely"
+      },
+      {
+        "title": "Cardio",
+        "text": "Improve stamina and heart health"
+      },
+      {
+        "title": "Personal training",
+        "text": "Evening batch available"
+      },
+      {
+        "title": "Weight loss",
+        "text": "Burn fat with a clear plan"
+      },
+      {
+        "title": "Weight gain",
+        "text": "Build healthy body mass"
+      },
+      {
+        "title": "Functional training",
+        "text": "Move better every day"
+      }
+    ]
+  },
+  "trainer": {
+    "tag": "Trainer",
+    "title": "One trainer. Personal attention.",
+    "text": "Train under focused guidance for strength, muscle building, functional fitness and weight management. Personal training is available in the evening batch.",
+    "skills": [
+      "Strength and conditioning",
+      "Muscle building",
+      "Weight management",
+      "Functional training"
+    ],
+    "quote": "Train with purpose. Transform with consistency."
+  },
+  "membership": {
+    "tag": "Membership",
+    "title": "Choose your commitment",
+    "pricing": "Contact us for pricing",
+    "cta": "Enquire now",
+    "plans": [
+      "Monthly",
+      "Quarterly",
+      "Half-yearly",
+      "Yearly"
+    ]
+  },
+  "gallery": {
+    "tag": "Gallery",
+    "title": "See the energy. Feel the focus."
+  },
+  "form": {
+    "tag": "WhatsApp enquiry / application",
+    "title": "Start your fitness journey",
+    "intro": "Share your goal and your details will open directly in WhatsApp. Nothing is stored on this website.",
+    "name": "Full name",
+    "phone": "Phone number",
+    "age": "Age",
+    "gender": "Gender",
+    "goal": "Fitness goal",
+    "time": "Preferred training time",
+    "duration": "Membership duration",
+    "message": "Message",
+    "select": "Select",
+    "send": "Send on WhatsApp",
+    "required": "Please enter your full name and phone number.",
+    "genders": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "times": [
+      "Morning: 6:00 AM – 9:30 AM",
+      "Evening: 4:30 PM – 10:00 PM"
+    ]
+  },
+  "contact": {
+    "tag": "Contact",
+    "title": "Visit Power House Gym",
+    "address": "Jasmine Tower, Jantra Mudarangadi Rd, near Bus Stop, Post, Pilar, Karnataka 574113",
+    "phone": "+91 7022618479",
+    "email": "power.house@gmail.com",
+    "instagram": "Instagram",
+    "facebook": "Facebook"
+  },
+  "footer": {
+    "hours": "Monday–Saturday: 6:00–9:30 AM and 4:30–10:00 PM",
+    "sunday": "Sunday: Closed",
+    "copy": "© 2026 Power House Gym Mudarangadi.",
+    "motto": "Train strong. Stay consistent."
+  },
+  "splash": {
+    "loading": "Powering up your journey"
+  }
+}
